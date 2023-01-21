@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "category": "Organic Vegetables"
+    },
+
+    {
+        "id": 2,
+        "category": "Organic Fruits"
+    },
+
+    {
+        "id": 3,
+        "category": "Diary Products"
+    },
+
+    {
+        "id": 4,
+        "category": "Fresh Meat"
+    },
+
+    {
+        "id": 5,
+        "category": "Packaged foods"
+    } 
+]
