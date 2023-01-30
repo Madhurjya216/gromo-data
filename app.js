@@ -9,6 +9,10 @@ let port = process.env.PORT || 9500;
 app.use(cors());
 
 
+app.get("/", (req, res) => {
+    res.send("Server working find");
+})
+
 app.get("/productdata", (req, res) => {
     res.send(product);
 });
@@ -19,5 +23,5 @@ app.get("/categorydata", (req, res) => {
 
 
 app.listen(port, () => {
-    console.log(`server is running in:${port}`)
+    console.log(`server is running in:${port}`);
 })
