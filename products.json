@@ -7,12 +7,7 @@
         "rating": "4.5 stars",
         "description": "We serve you the fresh and organic Onion",
         "image": "https://img.freepik.com/free-photo/red-onion-whole-isolated-white_146671-19174.jpg?size=626&ext=jpg&ga=GA1.2.1145224334.1665120416&semt=sph",
-        "price": [{
-            "250g" : "$0.38",
-            "400g" : "$2.48",
-            "800g" : "$4.89",
-            "1kg" : "$5"
-        }],
+        "price": "250/-",
         "discount": "20% off"
     },
 
@@ -24,12 +19,7 @@
         "rating": "4.6 stars",
         "description": "We serve you the fresh and organic Tomato",
         "image": "https://img.freepik.com/free-photo/tomatoes_144627-15411.jpg?size=626&ext=jpg&ga=GA1.2.1145224334.1665120416&semt=sph",
-        "price": [{
-            "250g" : "$0.48",
-            "400g" : "$2.30",
-            "800g" : "$5.11",
-            "1kg" : "$5.34"           
-        }],
+        "price": "200/-",
         "discount": "15% off"
     },
 
@@ -41,12 +31,7 @@
         "rating": "4.2 stars",
         "description": "We serve you the fresh and organic Potato",
         "image": "https://img.freepik.com/premium-photo/potatoes-isolated-white_272787-583.jpg?size=626&ext=jpg&uid=R81204783&ga=GA1.2.1145224334.1665120416&semt=sph",
-        "price": [{
-            "250g" : "$0.60",
-            "400g" : "$2.30",
-            "800g" : "$5.11",
-            "1kg" : "$5.34"           
-        }],
+        "price": "180/-",
         "discount": "10% off"
     },
 
@@ -58,12 +43,7 @@
         "rating": "4.5 stars",
         "description": "We serve you the fresh Garlic",
         "image": "https://img.freepik.com/free-photo/fresh-raw-garlic-ready-cook_1150-42636.jpg?size=626&ext=jpg&ga=GA1.2.1145224334.1665120416&semt=sph",
-        "price": [{
-            "250g" : "$0.38",
-            "400g" : "$2.48",
-            "800g" : "$4.89",
-            "1kg" : "$5"
-        }],
+        "price": "103/-",
         "discount": "20% off"
     },
 
@@ -75,12 +55,7 @@
         "rating": "4.5 stars",
         "description": "We serve you the fresh and Spicy Chlli",
         "image": "https://img.freepik.com/free-photo/red-fresh-chili-peppers-isolated-white_114579-43541.jpg?size=626&ext=jpg&ga=GA1.2.1145224334.1665120416&semt=sph",
-        "price": [{
-            "250g" : "$0.38",
-            "400g" : "$2.48",
-            "800g" : "$4.89",
-            "1kg" : "$5"
-        }],
+        "price": "140/-",
         "discount": "20% off"
     },
 
@@ -93,12 +68,7 @@
         "rating": "4.5 stars",
         "description": "We serve you the fresh and organic Apples",
         "image": "https://img.freepik.com/free-photo/front-view-fresh-red-apples-ripe-mellow-fruits-white-desk-fruit-color-tree-fresh-plant-red_140725-110203.jpg?size=626&ext=jpg&uid=R81204783&ga=GA1.2.1145224334.1665120416&semt=sph",
-        "price": [{
-            "250g" : "$0.48",
-            "400g" : "$2.30",
-            "800g" : "$5.11",
-            "1kg" : "$5.34"           
-        }],
+        "price": "99/-",
         "discount": "15% off"
     },
 
@@ -110,12 +80,7 @@
         "rating": "4.8 stars",
         "description": "We serve you the fresh and organic Pineapple",
         "image": "https://img.freepik.com/free-photo/pineapple-fruit_1203-7746.jpg?size=338&ext=jpg&uid=R81204783&ga=GA1.2.1145224334.1665120416&semt=sph",
-        "price": [{
-            "250g" : "$0.48",
-            "400g" : "$2.60",
-            "800g" : "$5.50",
-            "1kg" : "$6.34"           
-        }],
+        "price": "115/-",
         "discount": "20% off"
     },
 
@@ -127,12 +92,7 @@
         "rating": "4.5 stars",
         "description": "We serve you the fresh and organic Strawberry",
         "image": "https://img.freepik.com/free-photo/red-fresh-strawberries-with-green-leaves_114579-10498.jpg?size=626&ext=jpg&uid=R81204783&ga=GA1.2.1145224334.1665120416&semt=sph",
-        "price": [{
-            "250g" : "$0.89",
-            "400g" : "$2.60",
-            "800g" : "$5.30",
-            "1kg" : "$5.80"           
-        }],
+        "price": "120/-",
         "discount": "15% off"
     }, 
 
@@ -144,12 +104,7 @@
         "rating": "4.5 stars",
         "description": "We serve you the fresh Watermelon",
         "image": "https://img.freepik.com/premium-photo/sweet-watermelon-isolated_253984-4202.jpg?size=626&ext=jpg&ga=GA1.2.1145224334.1665120416&semt=sph",
-        "price": [{
-            "250g" : "$0.48",
-            "400g" : "$2.30",
-            "800g" : "$5.11",
-            "1kg" : "$5.34"           
-        }],
+        "price": "129/-",
         "discount": "15% off"
     },
 
@@ -161,12 +116,7 @@
         "rating": "4.5 stars",
         "description": "We serve you the fresh Orange",
         "image": "https://img.freepik.com/free-photo/orange-white-white_144627-16571.jpg?size=626&ext=jpg&ga=GA1.2.1145224334.1665120416&semt=sph",
-        "price": [{
-            "250g" : "$0.48",
-            "400g" : "$2.30",
-            "800g" : "$5.11",
-            "1kg" : "$5.34"           
-        }],
+        "price": "199/-",
         "discount": "15% off"
     },
 
@@ -178,12 +128,7 @@
         "rating": "4.5 stars",
         "description": "We serve you the fresh Kivi",
         "image": "https://img.freepik.com/free-photo/fresh-kiwi-fruit-isolated_144627-30034.jpg?size=626&ext=jpg&ga=GA1.2.1145224334.1665120416&semt=sph",
-        "price": [{
-            "250g" : "$0.48",
-            "400g" : "$2.30",
-            "800g" : "$5.11",
-            "1kg" : "$5.34"           
-        }],
+        "price": "210/-",
         "discount": "15% off"
     },
 
@@ -195,12 +140,7 @@
         "rating": "5 stars",
         "description": "We serve you the fresh and organic Milk",
         "image": "https://img.freepik.com/free-photo/glass-jar-milk-dried-dates-quail-eggs-tablecloth_114579-24850.jpg?size=626&ext=jpg&uid=R81204783&ga=GA1.2.1145224334.1665120416&semt=ais",
-        "price": [{
-            "250g" : "$1.18",
-            "400g" : "$2.30",
-            "800g" : "$5.11",
-            "1kg" : "$5.34"           
-        }],
+        "price": "59/-",
         "discount": "25% off"
     },
 
@@ -212,12 +152,7 @@
         "rating": "4.5 stars",
         "description": "We serve you the fresh and organic Eggs",
         "image": "https://img.freepik.com/free-photo/three-fresh-organic-raw-eggs-isolated-white-surface_114579-43677.jpg?size=626&ext=jpg&uid=R81204783&ga=GA1.2.1145224334.1665120416&semt=sph",
-        "price": [{
-            "250g" : "$0.48",
-            "400g" : "$2.20",
-            "800g" : "$5.56",
-            "1kg" : "$5.34"           
-        }],
+        "price": "30/-",
         "discount": "15% off"
     },
 
@@ -229,12 +164,7 @@
         "rating": "4.5 stars",
         "description": "We serve you the fresh and organic Butter",
         "image": "https://img.freepik.com/premium-photo/piece-butter-white-bowl_42687-72.jpg?size=626&ext=jpg&uid=R81204783&ga=GA1.2.1145224334.1665120416&semt=sph",
-        "price": [{
-            "250g" : "$0.48",
-            "400g" : "$2.30",
-            "800g" : "$3.80",
-            "1kg" : "$4.34"           
-        }],
+        "price": "20/-",
         "discount": "35% off"
     },
 
@@ -246,12 +176,7 @@
         "rating": "4.5 stars",
         "description": "We serve you the fresh and organic Cheese",
         "image": "https://img.freepik.com/free-photo/close-up-grated-parmesan_23-2148376113.jpg?size=626&ext=jpg&ga=GA1.2.1145224334.1665120416&semt=sph",
-        "price": [{
-            "250g" : "$0.48",
-            "400g" : "$2.30",
-            "800g" : "$3.80",
-            "1kg" : "$4.34"           
-        }],
+        "price": "30/-",
         "discount": "35% off"
     },
 
@@ -263,12 +188,7 @@
         "rating": "4.5 stars",
         "description": "We serve you the fresh Raw meat",
         "image": "https://img.freepik.com/premium-photo/meat-black-surface_697356-4591.jpg?size=626&ext=jpg&uid=R81204783&ga=GA1.2.1145224334.1665120416&semt=sph",
-        "price": [{
-            "250g" : "$0.48",
-            "400g" : "$2.30",
-            "800g" : "$5.11",
-            "1kg" : "$5.34"           
-        }],
+        "price": "300/-",
         "discount": "25% off"
     },
 
@@ -280,12 +200,7 @@
         "rating": "4.5 stars",
         "description": "We serve you the fresh Raw Fish",
         "image": "https://img.freepik.com/free-photo/hot-pot-shabu-raw-fresh-sliced-fish-plate_1150-35268.jpg?size=626&ext=jpg&uid=R81204783&ga=GA1.2.1145224334.1665120416&semt=sph",
-        "price": [{
-            "250g" : "$0.48",
-            "400g" : "$2.30",
-            "800g" : "$5.11",
-            "1kg" : "$5.34"           
-        }],
+        "price": "320/-",
         "discount": "30% off"
     },
 
@@ -297,12 +212,7 @@
         "rating": "4.5 stars",
         "description": "We serve you the fresh raw Chicken Beast",
         "image": "https://img.freepik.com/free-photo/raw-chicken-breast-dark-surface_1150-43921.jpg?size=626&ext=jpg&uid=R81204783&ga=GA1.2.1145224334.1665120416&semt=sph",
-        "price": [{
-            "250g" : "$0.48",
-            "400g" : "$2.30",
-            "800g" : "$5.11",
-            "1kg" : "$5.34"           
-        }],
+        "price": "360/-",
         "discount": "44% off"
     },
 
@@ -314,12 +224,7 @@
         "rating": "4.5 stars",
         "description": "We serve you the fresh Mackerel steak",
         "image": "https://img.freepik.com/free-photo/fresh-mackerel-steak_1339-3349.jpg?size=626&ext=jpg&ga=GA1.2.1145224334.1665120416&semt=sph",
-        "price": [{
-            "250g" : "$0.48",
-            "400g" : "$2.30",
-            "800g" : "$5.11",
-            "1kg" : "$5.34"           
-        }],
+        "price": "260/-",
         "discount": "25% off"
     },
 
@@ -331,12 +236,7 @@
         "rating": "4.5 stars",
         "description": "We serve you the fresh Raw whole chicken",
         "image": "https://img.freepik.com/premium-photo/raw-chicken-carcass-cutting-board-isolated-white_109285-1132.jpg?size=626&ext=jpg&ga=GA1.2.1145224334.1665120416&semt=sph",
-        "price": [{
-            "250g" : "$0.48",
-            "400g" : "$2.30",
-            "800g" : "$5.11",
-            "1kg" : "$5.34"           
-        }],
+        "price": "250/-",
         "discount": "25% off"
     },
 
@@ -348,12 +248,7 @@
         "rating": "4.3 stars",
         "description": "We serve you the best Oats",
         "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/cereal-flake/w/v/e/500-rolled-100-wholegrain-high-protein-breakfast-oats-for-weight-original-imagghw8jcxfakdr.jpeg?q=70",
-       "price": [{
-            "250g" : "$0.48",
-            "400g" : "$2.30",
-            "800g" : "$5.11",
-            "1kg" : "$5.34"           
-        }],
+       "price": "280/-",
         "discount": "35% off"
     },
 
@@ -365,12 +260,7 @@
         "rating": "4 stars",
         "description": "We serve you the best Maggie products",
         "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/spice-masala/o/w/s/-original-imaggdxyugmpmkrn.jpeg?q=70",
-        "price": [{
-            "250g" : "$0.48",
-            "400g" : "$2.30",
-            "800g" : "$5.11",
-            "1kg" : "$5.34"           
-        }],
+        "price": "15/-",
         "discount": "20% off"
     },
 
@@ -382,12 +272,7 @@
         "rating": "4.5 stars",
         "description": "We serve you the fresh raw Chicken Beast",
         "image": "https://rukminim1.flixcart.com/image/612/612/l41n2q80/sauce-ketchup/w/a/q/2-tomato-sauce-no-artificial-colours-flavours-100-natural-original-imagffhnuhgduqfj.jpeg?q=70",
-        "price": [{
-            "250g" : "$0.48",
-            "400g" : "$2.30",
-            "800g" : "$5.11",
-            "1kg" : "$5.34"           
-        }],
+        "price": "80/-",
         "discount": "44% off"
     },
 
@@ -399,12 +284,7 @@
         "rating": "4 stars",
         "description": "We serve you the best Raw Peanuts",
         "image": "https://rukminim1.flixcart.com/image/612/612/kzk6bgw0/pulses/4/s/m/3-raw-peanut-sheng-dana-3kg-1-peanut-producer-original-imagbjktafuymgjg.jpeg?q=70",
-        "price": [{
-            "250g" : "$0.48",
-            "400g" : "$2.30",
-            "800g" : "$5.11",
-            "1kg" : "$5.34"           
-        }],
+        "price": "450/-",
         "discount": "20% off"
     },
 
@@ -416,12 +296,7 @@
         "rating": "4 stars",
         "description": "We serve you the best Peanut butter",
         "image": "https://rukminim1.flixcart.com/image/612/612/kyyqpow0/jam-spread/v/j/z/340-whey-protein-peanut-butter-dark-chocolaty-extra-crunchy-1-original-imagb2qewjkyxkyz.jpeg?q=70",
-        "price": [{
-            "250g" : "$0.48",
-            "400g" : "$2.30",
-            "800g" : "$5.11",
-            "1kg" : "$5.34"           
-        }],
+        "price": "500/-",
         "discount": "20% off"
     }
 ]
