@@ -1,26 +1,36 @@
 [
     {
         "id": 1,
-        "category": "Organic Vegetables"
+        "category": "Organic Vegetables",
+        "image": "https://img.freepik.com/free-photo/basket-full-vegetables_1112-316.jpg?size=626&ext=jpg&ga=GA1.2.1145224334.1665120416&semt=sph",
+        "discount": "Upto 30% off"
     },
 
     {
         "id": 2,
-        "category": "Organic Fruits"
+        "category": "Organic Fruits",
+        "image": "https://img.freepik.com/free-photo/colorful-fruits-tasty-fresh-ripe-juicy-white-desk_179666-169.jpg?size=626&ext=jpg&ga=GA1.2.1145224334.1665120416&semt=sph",
+        "discount": "Upto 35% off"
     },
 
     {
         "id": 3,
-        "category": "Diary Products"
+        "category": "Diary Products",
+        "image": "https://img.freepik.com/premium-photo/dairy-protein-products-concept_80510-289.jpg?size=626&ext=jpg&ga=GA1.2.1145224334.1665120416&semt=sph",
+        "discount": "Upto 20% off"
     },
 
     {
         "id": 4,
-        "category": "Fresh Meat"
+        "category": "Fresh Meat",
+        "image": "https://img.freepik.com/free-photo/top-view-big-meat-slice-raw-meat-with-pepper-dark-surface_179666-44379.jpg?size=626&ext=jpg&ga=GA1.2.1145224334.1665120416",
+        "discount": "Upto 44% off"
     },
 
     {
         "id": 5,
-        "category": "Packaged foods"
+        "category": "Packaged foods",
+        "image": "https://rukminim1.flixcart.com/flap/128/128/image/ac8550.jpg?q=100",
+        "discount": "Upto 28% off"
     } 
 ]
